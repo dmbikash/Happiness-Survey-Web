@@ -1,6 +1,6 @@
 # happiness_survey_admin_web_app
 
-A new Flutter project.
+Happiness survey admin dashboard
 
 ## Demo
 
